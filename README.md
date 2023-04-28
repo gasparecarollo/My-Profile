@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaspare Carollo</h1>
 <h3 align="center">I'm a novice programmer at the Pursuit Fellowship.</h3>
+![banner](https://user-images.githubusercontent.com/128388442/235057179-262e4ba8-1158-4712-9ae1-93f76d88f661.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gasparecarollo&label=Profile%20views&color=0e75b6&style=flat" alt="gasparecarollo" /> </p>
 
