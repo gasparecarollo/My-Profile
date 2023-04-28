@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaspare Carollo</h1>
 <h3 align="center">I'm a novice programmer at the Pursuit Fellowship.</h3>
-![banner](https://user-images.githubusercontent.com/128388442/235057179-262e4ba8-1158-4712-9ae1-93f76d88f661.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gasparecarollo&label=Profile%20views&color=0e75b6&style=flat" alt="gasparecarollo" /> </p>
 
@@ -23,6 +23,9 @@
 - 📄 Know about my experiences in [filmmaking, editing, and photoshop.](filmmaking, editing, and photoshop.)
 
 - ⚡ Fun fact: **I worked on a movie with Dan Fogler and Wallace Shawn.**
+
+![banner](https://user-images.githubusercontent.com/128388442/235057179-262e4ba8-1158-4712-9ae1-93f76d88f661.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
